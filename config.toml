@@ -1,4 +1,4 @@
-baseurl = "https://srigurubyo.github.io/universal/"
+baseurl = "https://srigurubyo.github.io/sae/universal/"
 title = "Sri Bharathi Group"
 theme = "hugo-universal-theme"
 themesDir = "./themes"
