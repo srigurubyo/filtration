@@ -7,4 +7,4 @@ keywords = ["Sri Bharathi Group","About Sri Bharathi Group","SBG","Filter Pads",
 * We do not use any solvent / chemical and the adhere to the strict norms of Food & Pharmaceutical Industries
 * Fully automated and lesser human intervention for the high quality and safety of pads
 * ISO 9001-2000 Certified manufacturing unit
-* Dun & Bradstreet Certified manufacturing unit
+* Dun & Bradstreet Certified manufacturing unit (edited by vaidyanthan)
