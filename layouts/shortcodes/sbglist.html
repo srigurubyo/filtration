@@ -1,0 +1,17 @@
+{{ $sbglist := or (.Get 0) $.Page.Params.sbglist }}
+<div class="well">
+  <h4>Article sbglist</h4>
+  <ol>
+    {{ range $ind,$art := $.Site.Pages.ByDate }}
+      {{ if eq $art.Params.sbglist $sbglist }}
+        <li>
+          {{ if eq $art.Permalink $.Page.Permalink}}
+            {{ $art.Params.title }}
+          {{ else }}
+            <a href="{{ $art.Permalink }}">{{ $art.Params.title }}</a>
+          {{ end }}
+        </li>
+      {{ end }}
+    {{ end }}
+  </ol>
+</div>

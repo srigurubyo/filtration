@@ -3,7 +3,10 @@ title = "About Us"
 description = "About Us"
 keywords = ["Sri Bharathi Group","About Sri Bharathi Group","SBG","Filter Pads", "Filter Media"]
 +++
-{{< highlight html >}}
+
+<!-- A shortcode to render a series list unrelated to the current article -->
+{{< sbglist distilling-jruby >}}
+
 * Established by an eminent subject matter expert with more than 40 years of experience in the industry.
 * We have tie-up with technical leaders and other organizations in the Filtering Industry.
 * Manufacturing of High Quality Filter Pads, Filter Bags and other Industrial Filtering Equipments.
@@ -12,7 +15,6 @@ keywords = ["Sri Bharathi Group","About Sri Bharathi Group","SBG","Filter Pads",
 * Has state of the art technology for the Filter Pads manufacturing.
 * Eminent subject matter experts in the filed of Filter Pads & Filtering Technology.
 * Recognized as a reputed & quality supplier by multiple leading companies in India.
-{{< /highlight >}}
 
 Normal quote:
 {{< blockquote >}}
