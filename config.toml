@@ -60,29 +60,6 @@ paginate = 10
     weight = 5
 
 [[menu.main]]
-    name = "Blog"
-    url  = "/blog/"
-    weight = 2
-
-[[menu.main]]
-    name = "FAQ"
-    identifier = "faq"
-    url  = "/faq/"
-    weight = 3
-
-[[menu.main]]
-    name = "Contact"
-    identifier = "contact"
-    url  = "/contact/"
-    weight = 4
-
-[[menu.main]]
-    name = "Healthcare"
-    identifier = "healthcare"
-    url  = "/healthcare/"
-    weight = 6
-
-[[menu.main]]
     name = "Filter Pads"
     identifier = "filterpads"	
     url  = "/filtration/filterpads/"
@@ -95,6 +72,30 @@ paginate = 10
     url  = "/filtration/filtercartridges/"
     parent = "filtration"
     weight = 2
+
+[[menu.main]]
+    name = "Contact"
+    identifier = "contact"
+    url  = "/contact/"
+    weight = 4
+
+[[menu.main]]
+    name = "Blog"
+    url  = "/blog/"
+    weight = 2
+
+[[menu.main]]
+    name = "FAQ"
+    identifier = "faq"
+    url  = "/faq/"
+    weight = 3
+
+[[menu.main]]
+    name = "Healthcare"
+    identifier = "healthcare"
+    url  = "/healthcare/"
+    weight = 6
+
 
 [params]
     viewMorePostLink = "/blog/"

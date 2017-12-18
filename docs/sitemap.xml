@@ -28,10 +28,6 @@
   </url>
   
   <url>
-    <loc>https://srigurubyo.github.io/sae/about/about/</loc>
-  </url>
-  
-  <url>
     <loc>https://srigurubyo.github.io/sae/about/strength/</loc>
   </url>
   
@@ -123,13 +119,13 @@
   </url>
   
   <url>
-    <loc>https://srigurubyo.github.io/sae/tags/programming/</loc>
+    <loc>https://srigurubyo.github.io/sae/categories/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://srigurubyo.github.io/sae/categories/programming/</loc>
+    <loc>https://srigurubyo.github.io/sae/tags/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
