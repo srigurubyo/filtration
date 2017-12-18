@@ -69,15 +69,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     
     <item>
       <title>About Us</title>
-      <link>/about/strength/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/strength/</guid>
-      <description>Established by an eminent subject matter expert with more than 40 years of experience in the industry. We have tie-up with technical leaders and other organizations in the Filtering Industry. Manufacturing of High Quality Filter Pads, Filter Bags and other Industrial Filtering Equipments. Our continuous Research &amp;amp; Developments are tailored to the most recent technological up heaves. Its activities are governed by the ethical principles and garnered to the glory for its maintaining the promises and the standards.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
       <link>/about/verticles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -161,6 +152,15 @@ We manufacture a wide range of filter papers &amp;amp; pads on a very highly sop
       
       <guid>/healthcare/</guid>
       <description>Write something about drugs and the smart drugs distribution system</description>
+    </item>
+    
+    <item>
+      <title>Our Strength</title>
+      <link>/about/strength/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/strength/</guid>
+      <description>Established by an eminent subject matter expert with more than 40 years of experience in the industry. We have tie-up with technical leaders and other organizations in the Filtering Industry. Manufacturing of High Quality Filter Pads, Filter Bags and other Industrial Filtering Equipments. Our continuous Research &amp;amp; Developments are tailored to the most recent technological up heaves. Its activities are governed by the ethical principles and garnered to the glory for its maintaining the promises and the standards.</description>
     </item>
     
     <item>

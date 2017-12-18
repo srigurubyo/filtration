@@ -1,6 +1,6 @@
 +++
-title = "About Us"
-description = "About Us"
+title = "Our Strength"
+description = "Our Strength"
 keywords = ["Sri Bharathi Group","About Sri Bharathi Group","SBG","Filter Pads", "Filter Media"]
 +++
 
