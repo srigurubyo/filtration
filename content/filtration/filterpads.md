@@ -15,9 +15,12 @@ We also manufacture handmade filter papers & pads as per customer’s requiremen
 
 The different kinds of Filter Pads and their technical specifications are listed in below table:
 
-<table>
+
+<!-- Table starts here -->
+<table id="table" class="table table-hover table-mc-light-blue">
+
 <tr>
-	<th>Grade</th><th>Thickness (in mm)</th><th>G.S.M</th><th>Porosity (in sec)</th><th>B.F. (in kg/cm2 )</th><th>Bulk (in gm/cc)</th><th>Application</th>
+	<th>Grade</th><th>Thickness</br>(in mm)</th><th>G.S.M</th><th>Porosity</br>(in sec)</th><th>B.F.</br>(in kg/cm2 )</th><th>Bulk</br>(in gm/cc)</th><th>Application</th>
 </tr>
 <tbody>
 <tr>
@@ -73,13 +76,11 @@ The different kinds of Filter Pads and their technical specifications are listed
  Deodorization </td>
 </tr>
 </tbody>
-</table></br>
+</table>
 
+> ###### Apart from standard specifications, we use OnDemand approach to manufacture the products to suite custom requirements.
+> ###### The raw material used for the manufacturing of the Filter Pads is 100% Virgin Pulp and is unbleached.
+> ###### The filter pads are manufactured and continuously monitored under the rules of food act so it is food gradable.
 
-> ##### Apart from standard specifications, we use OnDemand approach to manufacture the products to suite custom requirements.</br>
-> ##### The raw material used for the manufacturing of the Filter Pads is 100% Virgin Pulp and is unbleached.</br>
-> ##### The filter pads are manufactured and continuously monitored under the rules of food act so it is food gradable.</br>
-
-
-[Cellulose Pulp Filter Pads](/filtration/filterpads/) </br>
+[Cellulose Pulp Filter Pads](/filtration/filterpads/)
 [Activated Carbon Filter Pads](/filtration/carbonpads/)

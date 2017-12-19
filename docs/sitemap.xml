@@ -68,10 +68,6 @@
   </url>
   
   <url>
-    <loc>/filtration/filterpads/</loc>
-  </url>
-  
-  <url>
     <loc>/filtration/</loc>
     <priority>0</priority>
   </url>
