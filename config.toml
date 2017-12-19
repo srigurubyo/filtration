@@ -1,5 +1,5 @@
-baseurl = ""
-# baseurl = "https://srigurubyo.github.io/sae/"
+# baseurl = ""
+baseurl = "/sae/"
 title = "Sri Bharathi Group"
 
 theme = "hugo-universal-theme"
