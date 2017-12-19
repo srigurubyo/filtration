@@ -13,27 +13,58 @@ Our raw material is continuously monitored for quality control. Constant laborat
 
 We also manufacture handmade filter papers & pads as per customer’s requirement. We use pure Cellulose Fiber, Cotton-Linter Pulp in manufacturing Quality filter Papers.
 
+
 The different kinds of Filter Pads and their technical specifications are listed in below table:
 
+<div>
 
-<!-- Table starts here -->
-<table id="table" class="table table-hover table-mc-light-blue">
+  <!-- Nav tabs -->
+  <ul class="nav nav-tabs" role="tablist">
+    <li role="presentation" class="active"><a href="#coarse" aria-controls="coarse" role="tab" data-toggle="tab">Coarse</a></li>
+    <li role="presentation"><a href="#fine" aria-controls="fine" role="tab" data-toggle="tab">Fine</a></li>
+    <li role="presentation"><a href="#clarify" aria-controls="clarify" role="tab" data-toggle="tab">Clarify</a></li>
+    <li role="presentation"><a href="#polish" aria-controls="polish" role="tab" data-toggle="tab">Polish</a></li>
+    <li role="presentation"><a href="#pharma" aria-controls="pharma" role="tab" data-toggle="tab">Pharma &amp; Liqueur</a></li>
+    <li role="presentation"><a href="#decolor" aria-controls="decolor" role="tab" data-toggle="tab">Decolor &amp; Deodor</a></li>
+  </ul>
 
-<tr>
-	<th>Grade</th><th>Thickness</br>(in mm)</th><th>G.S.M</th><th>Porosity</br>(in sec)</th><th>B.F.</br>(in kg/cm2 )</th><th>Bulk</br>(in gm/cc)</th><th>Application</th>
-</tr>
-<tbody>
-<tr>
-	<td>PPN 01</td><td>0.4</td><td>100</td><td>8</td><td>4</td><td>0.004</td><td rowspan="2">Coarse Filtration</td>
-</tr>
-<tr>
-	<td>PPN 15</td><td>0.7</td><td>150</td><td>5</td><td>4</td><td>0.004</td>
-</tr>
-<tr>
-	<td>SW-15</td><td>1.2</td><td>900</td><td>120</td><td>10</td><td>0.011</td><td>Fine Filtration</td>
-</tr>
-<tr>
-	<td>MMCR-1</td><td>1</td><td>500</td><td>5</td><td>4</td><td>0.002</td><td rowspan="5">Clarifying &amp; Polishing Filtration</td>
+  <!-- Tab panes -->
+  <div class="tab-content">
+    <div role="tabpanel" class="tab-pane active" id="coarse">
+	<table class="table table-bordered">
+	<tr>
+	<th>Grade</th><th>Thickness</br>(in mm)</th><th>G.S.M</th><th>Porosity</br>(in sec)</th><th>B.F.</br>(in kg/cm2 )</th><th>Bulk</br>(in gm/cc)</th>
+	</tr>
+	<tbody>
+	<tr>
+		<td>PPN 01</td><td>0.4</td><td>100</td><td>8</td><td>4</td><td>0.004</td>
+	</tr>
+	<tr>
+		<td>PPN 15</td><td>0.7</td><td>150</td><td>5</td><td>4</td><td>0.004</td>
+	</tr>
+	</tbody>
+	</table>
+    </div>
+    <div role="tabpanel" class="tab-pane" id="fine">
+	<table class="table table-bordered">
+	<tr>
+	<th>Grade</th><th>Thickness</br>(in mm)</th><th>G.S.M</th><th>Porosity</br>(in sec)</th><th>B.F.</br>(in kg/cm2 )</th><th>Bulk</br>(in gm/cc)</th>
+	</tr>
+	<tbody>
+	<tr>
+		<td>SW-15</td><td>1.2</td><td>900</td><td>120</td><td>10</td><td>0.011</td>
+	</tr>
+	</tbody>
+</table>
+    </div>
+    <div role="tabpanel" class="tab-pane" id="clarify">
+<table class="table table-bordered">
+	<tr>
+	<th>Grade</th><th>Thickness</br>(in mm)</th><th>G.S.M</th><th>Porosity</br>(in sec)</th><th>B.F.</br>(in kg/cm2 )</th><th>Bulk</br>(in gm/cc)</th>
+	</tr>
+	<tbody>
+	<tr>
+	<td>MMCR-1</td><td>1</td><td>500</td><td>5</td><td>4</td><td>0.002</td>
 </tr>
 <tr>
 	<td>MMCR-15</td><td>1.5</td><td>650</td><td>7</td><td>7</td><td>0.025</td>
@@ -47,8 +78,17 @@ The different kinds of Filter Pads and their technical specifications are listed
 <tr>
 	<td>MMCR-3</td><td>3</td><td>1300</td><td>10</td><td>10</td><td>0.023</td>
 </tr>
-<tr>
-	<td>MMC-05</td><td>0.5</td><td>250</td><td>4 to 5</td><td>3</td><td>0.002</td><td rowspan="5">Clarifying &amp; Polishing</td>
+</tbody>
+</table>
+</div>
+ <div role="tabpanel" class="tab-pane" id="polish">
+<table class="table table-bordered">
+	<tr>
+	<th>Grade</th><th>Thickness</br>(in mm)</th><th>G.S.M</th><th>Porosity</br>(in sec)</th><th>B.F.</br>(in kg/cm2 )</th><th>Bulk</br>(in gm/cc)</th>
+	</tr>
+	<tbody>
+	<tr>
+	<td>MMC-05</td><td>0.5</td><td>250</td><td>4 to 5</td><td>3</td><td>0.002</td>
 </tr>
 <tr>
 	<td>MMC-1</td><td>1</td><td>500</td><td>6 to 7</td><td>5</td><td>0.002</td>
@@ -62,8 +102,17 @@ The different kinds of Filter Pads and their technical specifications are listed
 <tr>
 	<td>MMC 25</td><td>2.5</td><td>1050</td><td>14</td><td>10</td><td>0.0023</td>
 </tr>
-<tr>
-	<td>W15</td><td>1.5</td><td>750</td><td>20</td><td>7</td><td>0.0021</td><td rowspan="3">Fine filtration for Pharma &amp; Liqueur industries</td>
+</tbody>
+</table>
+</div>
+    <div role="tabpanel" class="tab-pane" id="pharma">
+<table class="table table-bordered">
+	<tr>
+	<th>Grade</th><th>Thickness</br>(in mm)</th><th>G.S.M</th><th>Porosity</br>(in sec)</th><th>B.F.</br>(in kg/cm2 )</th><th>Bulk</br>(in gm/cc)</th>
+	</tr>
+	<tbody>
+	<tr>
+	<td>W15</td><td>1.5</td><td>750</td><td>20</td><td>7</td><td>0.0021</td>
 </tr>
 <tr>
 	<td>MMCW02</td><td>2</td><td>950</td><td>25</td><td>10</td><td>0.0021</td>
@@ -71,16 +120,37 @@ The different kinds of Filter Pads and their technical specifications are listed
 <tr>
 	<td>MMCW25</td><td>2.5</td><td>1250</td><td>25</td><td>10</td><td>0.0021</td>
 </tr>
-<tr>
-	<td>BK 02</td><td>2</td><td>800</td><td>12</td><td>8</td><td>-</td><td>Decolorization</br>
- Deodorization </td>
-</tr>
 </tbody>
 </table>
+</div>
+    <div role="tabpanel" class="tab-pane" id="decolor">
+	<table class="table table-bordered">
+	<tr>
+	<th>Grade</th><th>Thickness</br>(in mm)</th><th>G.S.M</th><th>Porosity</br>(in sec)</th><th>B.F.</br>(in kg/cm2 )</th><th>Bulk</br>(in gm/cc)</th>
+	</tr>
+	<tbody>
+	<tr>
+	<td>BK 02</td><td>2</td><td>800</td><td>12</td><td>8</td><td>-</td>
+	</tr>
+	<tr>
+	<td>BK 25</td><td>2.5</td><td>1150</td><td>14</td><td>8</td><td>-</td>
+	</tr>
+	</tbody>
+	</table>
+    </div>
+  </div>
+</div>
+</br></br>
 
-> ###### Apart from standard specifications, we use OnDemand approach to manufacture the products to suite custom requirements.
-> ###### The raw material used for the manufacturing of the Filter Pads is 100% Virgin Pulp and is unbleached.
-> ###### The filter pads are manufactured and continuously monitored under the rules of food act so it is food gradable.
 
 [Cellulose Pulp Filter Pads](/filtration/filterpads/)
 [Activated Carbon Filter Pads](/filtration/carbonpads/)
+
+<ul class="list-group">
+  <li class="list-group-item active">
+	<h5 class="list-group-item-heading active">Salient features</h5>
+  </li>
+  <li class="list-group-item">Apart from standard specifications, we use OnDemand approach to manufacture the products to suite custom requirements</li>
+  <li class="list-group-item">The raw material used for the manufacturing of the Filter Pads is 100% Virgin Pulp and is unbleached</li>
+  <li class="list-group-item">The filter pads are manufactured and continuously monitored under the rules of food act so it is food gradable</li>
+</ul>
