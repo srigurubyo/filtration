@@ -1,5 +1,5 @@
 # baseurl = ""
-baseurl = "/sae"
+baseurl = "/sae/"
 title = "Sri Bharathi Group"
 
 theme = "universal"
