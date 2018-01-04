@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>sae/media/productcatalog/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>sae/blog/2015/10/10/migrate-from-jekyll/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
@@ -25,10 +30,6 @@
   <url>
     <loc>sae/blog/2015/06/24/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>sae/about/verticles/</loc>
   </url>
   
   <url>
@@ -64,16 +65,20 @@
   </url>
   
   <url>
+    <loc>sae/media/activatedcarbonpads/</loc>
+  </url>
+  
+  <url>
+    <loc>sae/media/filterpadsdeepdive/</loc>
+  </url>
+  
+  <url>
     <loc>sae/filtration/filtercartridges/</loc>
   </url>
   
   <url>
     <loc>sae/filtration/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>sae/about/focusareas/</loc>
   </url>
   
   <url>
@@ -111,6 +116,12 @@
   </url>
   
   <url>
+    <loc>sae/media/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>sae/about/strength/</loc>
   </url>
   
@@ -134,8 +145,12 @@
   
   <url>
     <loc>sae/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>sae/media/sribharathigroup/</loc>
   </url>
   
   <url>

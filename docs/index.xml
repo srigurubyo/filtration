@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Sri Bharathi Group of companies; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="sae/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Shortcode Tests</title>
+      <link>sae/media/productcatalog/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>sae/media/productcatalog/</guid>
+      <description>  </description>
+    </item>
     
     <item>
       <title>Migrate from Jekyll</title>
@@ -68,16 +77,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>About Us</title>
-      <link>sae/about/verticles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>sae/about/verticles/</guid>
-      <description>We warmly welcome you to our web portal – Sri Bharathi Group of companies.
-Sri Bharathi Group of companies is established by an eminent visionary with more than 40 years of industrial deep-rooted experience and expertise keeping the outlook on the fast-flourishing technical advance which gallops incredibly beyond leaps and bounds. In industry, the prime objective is the manufacture of products with pristine purity. The consumers of today are well acquainted with quality of consumables.</description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>sae/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -117,6 +116,24 @@ We manufacture a wide range of filter papers &amp;amp; pads on a very highly sop
     </item>
     
     <item>
+      <title>Filter Pads Deep Dive</title>
+      <link>sae/media/activatedcarbonpads/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>sae/media/activatedcarbonpads/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Filter Pads Deep Dive</title>
+      <link>sae/media/filterpadsdeepdive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>sae/media/filterpadsdeepdive/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
       <title>Filtration</title>
       <link>sae/filtration/filtercartridges/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -124,15 +141,6 @@ We manufacture a wide range of filter papers &amp;amp; pads on a very highly sop
       <guid>sae/filtration/filtercartridges/</guid>
       <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
-    </item>
-    
-    <item>
-      <title>Focus Areas</title>
-      <link>sae/about/focusareas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>sae/about/focusareas/</guid>
-      <description> </description>
     </item>
     
     <item>
@@ -151,6 +159,15 @@ We manufacture a wide range of filter papers &amp;amp; pads on a very highly sop
       
       <guid>sae/about/strength/</guid>
       <description>Established by an eminent subject matter expert with more than 40 years of experience in the industry We have tie-up with technical leaders and other organizations in the Filtering Industry Manufacturing of High Quality Filter Pads, Filter Bags and other Industrial Filtering Equipment Our continuous Research &amp; Developments are tailored to the most recent technological up heaves Its activities are governed by the ethical principles and garnered to the glory for its maintaining the promises and the standards Has state of the art technology for the Filter Pads manufacturing Eminent subject matter experts in the filed of Filter Pads &amp; Filtering Technology Recognized as a reputed &amp; quality supplier by multiple leading companies in India  </description>
+    </item>
+    
+    <item>
+      <title>Sri Bharathi Group - An Overview</title>
+      <link>sae/media/sribharathigroup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>sae/media/sribharathigroup/</guid>
+      <description> </description>
     </item>
     
     <item>

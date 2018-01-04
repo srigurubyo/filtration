@@ -71,12 +71,6 @@ paginate = 10
     parent = "about"
 
 [[menu.main]]
-    name = "Focus Areas"
-    identifier = "focusareas"	
-    url  = "/about/focusareas/"
-    parent = "about"
-
-[[menu.main]]
     name = "Filter Pads"
     identifier = "filterpads"	
     url  = "/filtration/filterpads/"
@@ -97,7 +91,29 @@ paginate = 10
     parent = "filtration"
     weight = 3
 
+[[menu.main]]
+    name = "Sri Bharathi Group"
+    identifier = "sribharathigroup"	
+    url  = "/media/sribharathigroup/"
+    parent = "media"
 
+[[menu.main]]
+    name = "Filter Pads - Deep Dive"
+    identifier = "filterpadsdeepdive"	
+    url  = "/media/filterpadsdeepdive/"
+    parent = "media"
+
+[[menu.main]]
+    name = "Activated Carbon Pads"
+    identifier = "activatedcarbonpads"	
+    url  = "/media/activatedcarbonpads/"
+    parent = "media"
+
+[[menu.main]]
+    name = "Product Catalog"
+    identifier = "productcatalog"	
+    url  = "/media/productcatalog/"
+    parent = "media"
 
 [params]
     viewMorePostLink = "/blog/"
