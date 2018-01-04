@@ -1,30 +1,71 @@
 +++
-title = "Filtration Pads"
+title = "Filter Pads & Papers"
 description = "Pulp Filter Pads"
 keywords = ["Filter Pads","Cellulose Filter Pads","Cellulose Pulp Filter Pads","Pads", "Filter Papers"]
 +++
-We offer Filter Pads in two categories namely Cellulose Pulp and Carbon Activated and their details can be found under respective link.  Cellulose Pulp category of Filter Pad comes with varied specification to suite the final filtering process deployed at the plant.
+
+We offer Filter Pads in two categories namely Cellulose Pulp and Carbon Activated.  Cellulose Pulp category of Filter Pad comes with varied specification to suite the final filtering process deployed at the plant.
 
 We manufacture a wide range of filter papers & pads on a very highly sophisticated production plant. The entire process of manufacturing is untouched by hand from the pulping stage to the finished product. This is a high precision completely automatic plant which ensures a uniformly produced filter media for excellent purity and frees from external contaminants qualities vital for sensitive industries like drugs, pharmaceuticals, foods, beverages, chemicals, cosmetics etc.
 
-> round_filter_pad square_filter_pad Filter_Pads
+<div class="row">
+  <div class="col-sm-6 col-md-5">
+    <div class="thumbnail">
+      <img src="/img/filterpads/square_filter_pad.jpg" alt="Filter Pad - Square/Rectangular Shape">
+      <div class="caption">
+        <h3>Filter Sheet</h3>
+        <p>Available in custom dimensions to cater different types of filtration systems.  One of the usecase is usage in the form of pulp cake in filter press.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6 col-md-5">
+    <div class="thumbnail">
+      <img src="/img/filterpads/activated_carbon_pad.png" alt="Activated Carbon Pads">
+      <div class="caption">
+        <h3>Activated Carbon Pad</h3>
+        <p>Carbon has been used in loose form to remove color and odor from liquids.  The activated carbon impregnated filter pads eliminate the need for dumping loose carbon into a mixing tank, and then scraping the carbon off manually.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6 col-md-5">
+    <div class="thumbnail">
+      <img src="/img/filterpads/modular_2.jpg" alt="Lenticular Filter System">
+      <div class="caption">
+        <h3>Lenticular Filter System</h3>
+        <p>Lenticular or Modular filter system is a fully enclosed filter system where the Filter Pads are grouped together using polypropylene support discs and constructed in a modular design. It takes no time to setup this inside the housing and it comes as single unit.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6 col-md-5">
+    <div class="thumbnail">
+      <img src="/img/filterpads/round_filter_pad.png" alt="Filter Pad - Circular Shape">
+      <div class="caption">
+        <h3>Pharma Filter Pad</h3>
+        <p>We offer the widest variety of Pharmaceutical Filter Papers, Pads and other filter media.  This include cellulose pulp filter pads, cellulose/diatomaceous earth, cellulose/perlite combination of Filter Pads.</p>
+      </div>
+    </div>
+  </div>
+
+</div>
 
 Our raw material is continuously monitored for quality control. Constant laboratory tests are conducted to check filtration efficiency, pad porosity, absorbency, Filtration speed and bursting factor. The fibers of our filter paper & pads are also subjected to a special porous chemically inert wet-strength impregnation process to impart very high mechanical strength while filtering aqueous.
 
 We also manufacture handmade filter papers & pads as per customer’s requirement. We use pure Cellulose Fiber, Cotton-Linter Pulp in manufacturing Quality filter Papers.
 
-
-The different kinds of Filter Pads and their technical specifications are listed in below table:
+> ##### Technical specifications of different types of Filter Pads/Papers
 
 <div>
 
   <!-- Nav tabs -->
   <ul class="nav nav-tabs" role="tablist">
-    <li role="presentation" class="active"><a href="#coarse" aria-controls="coarse" role="tab" data-toggle="tab">Coarse</a></li>
-    <li role="presentation"><a href="#fine" aria-controls="fine" role="tab" data-toggle="tab">Fine</a></li>
-    <li role="presentation"><a href="#clarify" aria-controls="clarify" role="tab" data-toggle="tab">Clarify</a></li>
-    <li role="presentation"><a href="#polish" aria-controls="polish" role="tab" data-toggle="tab">Polish</a></li>
-    <li role="presentation"><a href="#pharma" aria-controls="pharma" role="tab" data-toggle="tab">Pharma &amp; Liqueur</a></li>
+    <li role="presentation" class="active"><a href="#coarse" aria-controls="coarse" role="tab" data-toggle="tab">Coarse Filtration</a></li>
+    <li role="presentation"><a href="#fine" aria-controls="fine" role="tab" data-toggle="tab">Fine Filtration</a></li>
+    <li role="presentation"><a href="#clarify" aria-controls="clarify" role="tab" data-toggle="tab">Clarifying</a></li>
+    <li role="presentation"><a href="#polish" aria-controls="polish" role="tab" data-toggle="tab">Polishing</a></li>
+    <li role="presentation"><a href="#pharma" aria-controls="pharma" role="tab" data-toggle="tab">Pharma &amp; Liqueur Industry</a></li>
     <li role="presentation"><a href="#decolor" aria-controls="decolor" role="tab" data-toggle="tab">Decolor &amp; Deodor</a></li>
   </ul>
 
@@ -140,11 +181,7 @@ The different kinds of Filter Pads and their technical specifications are listed
     </div>
   </div>
 </div>
-</br></br>
-
-
-[Cellulose Pulp Filter Pads](/filtration/filterpads/)
-[Activated Carbon Filter Pads](/filtration/carbonpads/)
+</br>
 
 <ul class="list-group">
   <li class="list-group-item active">

@@ -1,8 +1,8 @@
 # baseurl = ""
-baseurl = "/sae/"
+baseurl = "sae"
 title = "Sri Bharathi Group"
 
-theme = "hugo-universal-theme"
+theme = "universal"
 # theme = "hugo-theme-docdock"
 
 themesDir = "./themes"
@@ -29,39 +29,52 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
+    name = "Filtration"
+    identifier = "filtration"	
+    url  = "/filtration/"
+    weight = 2
+
+[[menu.main]]
+    name = "Media"
+    identifier = "media"
+    url  = "/media/"
+    weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    identifier = "contact"
+    url  = "/contact/"
+    weight = 4
+
+[[menu.main]]
     name = "Company"
     identifier = "company"	
     url  = "/about/company/"
     parent = "about"
-    weight = 1
 
 [[menu.main]]
     name = "Strength"
     identifier = "Strength"	
     url  = "/about/strength/"
     parent = "about"
-    weight = 2
 
 [[menu.main]]
     name = "Values"
     identifier = "values"	
     url  = "/about/values/"
     parent = "about"
-    weight = 3
 
 [[menu.main]]
     name = "Standards"
     identifier = "standards"	
     url  = "/about/standards/"
     parent = "about"
-    weight = 4
 
 [[menu.main]]
     name = "Focus Areas"
     identifier = "focusareas"	
     url  = "/about/focusareas/"
     parent = "about"
-    weight = 5
 
 [[menu.main]]
     name = "Filter Pads"
@@ -78,27 +91,12 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
-    name = "Contact"
-    identifier = "contact"
-    url  = "/contact/"
-    weight = 4
-
-[[menu.main]]
-    name = "Blog"
-    url  = "/blog/"
-    weight = 2
-
-[[menu.main]]
-    name = "FAQ"
-    identifier = "faq"
-    url  = "/faq/"
+    name = "Modular Filter"
+    identifier = "modularfilter"	
+    url  = "/filtration/modularfilter/"
+    parent = "filtration"
     weight = 3
 
-[[menu.main]]
-    name = "Healthcare"
-    identifier = "healthcare"
-    url  = "/healthcare/"
-    weight = 6
 
 
 [params]
