@@ -1,8 +1,8 @@
 # baseurl = ""
-baseurl = "/sae/"
+baseurl = "/sae"
 title = "Sri Bharathi Group"
 
-theme = "universal"
+theme = "material-docs"
 # theme = "hugo-theme-docdock"
 
 themesDir = "./themes"
