@@ -2,7 +2,7 @@
 baseurl = "/sae"
 title = "Sri Bharathi Group"
 
-theme = "material-docs"
+theme = "universal"
 # theme = "hugo-theme-docdock"
 
 themesDir = "./themes"
