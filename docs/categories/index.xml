@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sri Bharathi Group</title>
-    <link>/categories/</link>
+    <link>http://filtration.sribharathi.com/categories/</link>
     <description>Recent content in Categories on Sri Bharathi Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Sri Bharathi Group of companies; all rights reserved.</copyright>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://filtration.sribharathi.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Lorem</title>
-      <link>/categories/lorem/</link>
+      <link>http://filtration.sribharathi.com/categories/lorem/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>/categories/lorem/</guid>
+      <guid>http://filtration.sribharathi.com/categories/lorem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming</title>
-      <link>/categories/programming/</link>
+      <link>http://filtration.sribharathi.com/categories/programming/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>/categories/programming/</guid>
+      <guid>http://filtration.sribharathi.com/categories/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pseudo</title>
-      <link>/categories/pseudo/</link>
+      <link>http://filtration.sribharathi.com/categories/pseudo/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>/categories/pseudo/</guid>
+      <guid>http://filtration.sribharathi.com/categories/pseudo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Starting</title>
-      <link>/categories/starting/</link>
+      <link>http://filtration.sribharathi.com/categories/starting/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>/categories/starting/</guid>
+      <guid>http://filtration.sribharathi.com/categories/starting/</guid>
       <description></description>
     </item>
     

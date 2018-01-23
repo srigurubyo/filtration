@@ -3,178 +3,178 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/media/productcatalog/</loc>
+    <loc>http://filtration.sribharathi.com/media/productcatalog/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2015/10/10/migrate-from-jekyll/</loc>
+    <loc>http://filtration.sribharathi.com/blog/2015/10/10/migrate-from-jekyll/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2015/10/02/linked-post/</loc>
+    <loc>http://filtration.sribharathi.com/blog/2015/10/02/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2015/09/17/go-is-for-lovers/</loc>
+    <loc>http://filtration.sribharathi.com/blog/2015/09/17/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2015/08/03/hugo-is-for-lovers/</loc>
+    <loc>http://filtration.sribharathi.com/blog/2015/08/03/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2015/06/24/creating-a-new-theme/</loc>
+    <loc>http://filtration.sribharathi.com/blog/2015/06/24/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>http://filtration.sribharathi.com/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/blog/</loc>
+    <loc>http://filtration.sribharathi.com/blog/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>http://filtration.sribharathi.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>http://filtration.sribharathi.com/contact/</loc>
   </url>
   
   <url>
-    <loc>/about/values/</loc>
+    <loc>http://filtration.sribharathi.com/about/values/</loc>
   </url>
   
   <url>
-    <loc>/faq/</loc>
+    <loc>http://filtration.sribharathi.com/faq/</loc>
   </url>
   
   <url>
-    <loc>/filtration/filterpads/</loc>
+    <loc>http://filtration.sribharathi.com/filtration/filterpads/</loc>
   </url>
   
   <url>
-    <loc>/media/activatedcarbonpads/</loc>
+    <loc>http://filtration.sribharathi.com/media/activatedcarbonpads/</loc>
   </url>
   
   <url>
-    <loc>/media/filterpadsdeepdive/</loc>
+    <loc>http://filtration.sribharathi.com/media/filterpadsdeepdive/</loc>
   </url>
   
   <url>
-    <loc>/filtration/filtercartridges/</loc>
+    <loc>http://filtration.sribharathi.com/filtration/filtercartridges/</loc>
   </url>
   
   <url>
-    <loc>/filtration/</loc>
+    <loc>http://filtration.sribharathi.com/filtration/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/go/</loc>
+    <loc>http://filtration.sribharathi.com/tags/go/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/golang/</loc>
+    <loc>http://filtration.sribharathi.com/tags/golang/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/healthcare/</loc>
+    <loc>http://filtration.sribharathi.com/healthcare/</loc>
   </url>
   
   <url>
-    <loc>/tags/hugo/</loc>
+    <loc>http://filtration.sribharathi.com/tags/hugo/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/ipsum/</loc>
+    <loc>http://filtration.sribharathi.com/tags/ipsum/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/lorem/</loc>
+    <loc>http://filtration.sribharathi.com/categories/lorem/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/media/</loc>
+    <loc>http://filtration.sribharathi.com/media/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/about/strength/</loc>
+    <loc>http://filtration.sribharathi.com/about/strength/</loc>
   </url>
   
   <url>
-    <loc>/tags/programming/</loc>
+    <loc>http://filtration.sribharathi.com/tags/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/programming/</loc>
+    <loc>http://filtration.sribharathi.com/categories/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/pseudo/</loc>
+    <loc>http://filtration.sribharathi.com/categories/pseudo/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>http://filtration.sribharathi.com/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/media/sribharathigroup/</loc>
+    <loc>http://filtration.sribharathi.com/media/sribharathigroup/</loc>
   </url>
   
   <url>
-    <loc>/about/company/</loc>
+    <loc>http://filtration.sribharathi.com/about/company/</loc>
   </url>
   
   <url>
-    <loc>/about/standards/</loc>
+    <loc>http://filtration.sribharathi.com/about/standards/</loc>
   </url>
   
   <url>
-    <loc>/categories/starting/</loc>
+    <loc>http://filtration.sribharathi.com/categories/starting/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>http://filtration.sribharathi.com/tags/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/theme/</loc>
+    <loc>http://filtration.sribharathi.com/tags/theme/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>

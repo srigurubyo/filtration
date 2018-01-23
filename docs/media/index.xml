@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Media on Sri Bharathi Group</title>
-    <link>/media/</link>
+    <link>http://filtration.sribharathi.com/media/</link>
     <description>Recent content in Media on Sri Bharathi Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Sri Bharathi Group of companies; all rights reserved.</copyright>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/media/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://filtration.sribharathi.com/media/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Shortcode Tests</title>
-      <link>/media/productcatalog/</link>
+      <link>http://filtration.sribharathi.com/media/productcatalog/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/media/productcatalog/</guid>
+      <guid>http://filtration.sribharathi.com/media/productcatalog/</guid>
       <description>  </description>
     </item>
     
     <item>
       <title>Filter Pads Deep Dive</title>
-      <link>/media/activatedcarbonpads/</link>
+      <link>http://filtration.sribharathi.com/media/activatedcarbonpads/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/media/activatedcarbonpads/</guid>
+      <guid>http://filtration.sribharathi.com/media/activatedcarbonpads/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Filter Pads Deep Dive</title>
-      <link>/media/filterpadsdeepdive/</link>
+      <link>http://filtration.sribharathi.com/media/filterpadsdeepdive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/media/filterpadsdeepdive/</guid>
+      <guid>http://filtration.sribharathi.com/media/filterpadsdeepdive/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Sri Bharathi Group - An Overview</title>
-      <link>/media/sribharathigroup/</link>
+      <link>http://filtration.sribharathi.com/media/sribharathigroup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/media/sribharathigroup/</guid>
+      <guid>http://filtration.sribharathi.com/media/sribharathigroup/</guid>
       <description> </description>
     </item>
     
