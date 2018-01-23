@@ -1,7 +1,8 @@
 baseurl = "/"
 title = "Sri Bharathi Group"
 
-theme = "universal-v0.15"
+#theme = "universal-v0.15"
+#theme = "universal"
 # theme = "hugo-theme-docdock"
 
 themesDir = "./themes"
