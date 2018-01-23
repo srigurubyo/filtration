@@ -1,4 +1,4 @@
-#baseurl = "/engineering/"
+baseurl = "/"
 title = "Sri Bharathi Group"
 
 theme = "universal-v0.15"
