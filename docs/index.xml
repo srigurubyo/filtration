@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sri Bharathi Group</title>
-    <link>http://filtration.sribharathi.com/</link>
+    <link>/</link>
     <description>Recent content on Sri Bharathi Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Sri Bharathi Group of companies; all rights reserved.</copyright>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://filtration.sribharathi.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Shortcode Tests</title>
-      <link>http://filtration.sribharathi.com/media/productcatalog/</link>
+      <link>/media/productcatalog/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://filtration.sribharathi.com/media/productcatalog/</guid>
+      <guid>/media/productcatalog/</guid>
       <description>  </description>
     </item>
     
     <item>
       <title>Migrate from Jekyll</title>
-      <link>http://filtration.sribharathi.com/blog/2015/10/10/migrate-from-jekyll/</link>
+      <link>/blog/2015/10/10/migrate-from-jekyll/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>http://filtration.sribharathi.com/blog/2015/10/10/migrate-from-jekyll/</guid>
+      <guid>/blog/2015/10/10/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
@@ -34,30 +34,30 @@
     
     <item>
       <title>Linked post</title>
-      <link>http://filtration.sribharathi.com/blog/2015/10/02/linked-post/</link>
+      <link>/blog/2015/10/02/linked-post/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>http://filtration.sribharathi.com/blog/2015/10/02/linked-post/</guid>
+      <guid>/blog/2015/10/02/linked-post/</guid>
       <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
 menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
     </item>
     
     <item>
       <title>Go is for lovers</title>
-      <link>http://filtration.sribharathi.com/blog/2015/09/17/go-is-for-lovers/</link>
+      <link>/blog/2015/09/17/go-is-for-lovers/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>http://filtration.sribharathi.com/blog/2015/09/17/go-is-for-lovers/</guid>
+      <guid>/blog/2015/09/17/go-is-for-lovers/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
       <title>Hugo is for lovers</title>
-      <link>http://filtration.sribharathi.com/blog/2015/08/03/hugo-is-for-lovers/</link>
+      <link>/blog/2015/08/03/hugo-is-for-lovers/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://filtration.sribharathi.com/blog/2015/08/03/hugo-is-for-lovers/</guid>
+      <guid>/blog/2015/08/03/hugo-is-for-lovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
@@ -68,124 +68,124 @@ Follow the following steps:
     
     <item>
       <title>Creating a new theme</title>
-      <link>http://filtration.sribharathi.com/blog/2015/06/24/creating-a-new-theme/</link>
+      <link>/blog/2015/06/24/creating-a-new-theme/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>http://filtration.sribharathi.com/blog/2015/06/24/creating-a-new-theme/</guid>
+      <guid>/blog/2015/06/24/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://filtration.sribharathi.com/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://filtration.sribharathi.com/contact/</guid>
+      <guid>/contact/</guid>
       <description>We are here to help you Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
 Please feel free to contact us, our customer service center is working for you 24&amp;frasl;7.</description>
     </item>
     
     <item>
       <title>Core values</title>
-      <link>http://filtration.sribharathi.com/about/values/</link>
+      <link>/about/values/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://filtration.sribharathi.com/about/values/</guid>
+      <guid>/about/values/</guid>
       <description>Being a joint venture between Sri Bharathi Enterprises and National Card Board Mill we provide great value adds not only in terms of quality but also the professional after sales services Highly customizable specification in terms of crucial aspects like Fiber Length, Viscosity, Moisture etc Use On-Demand approach to tailor the product based on your need to suite your requirements on: Shape, Dimension and Technical Specification Supply Filter Pads which are manufactured using: Wood Pulp, Cotton Pulp and Hybrid Pulp Adheres to high quality standards Competitive pricing Protected from the dollar exchange rate fluctuation Offer 24*7 support Certified for usage in Food &amp; Pharmaceutical industries Offers end-to-end support which includes Water Proof Packaging, Transportation, etc  </description>
     </item>
     
     <item>
       <title>FAQ</title>
-      <link>http://filtration.sribharathi.com/faq/</link>
+      <link>/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://filtration.sribharathi.com/faq/</guid>
+      <guid>/faq/</guid>
       <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
     </item>
     
     <item>
       <title>Filter Pads &amp; Papers</title>
-      <link>http://filtration.sribharathi.com/filtration/filterpads/</link>
+      <link>/filtration/filterpads/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://filtration.sribharathi.com/filtration/filterpads/</guid>
+      <guid>/filtration/filterpads/</guid>
       <description>We offer Filter Pads in two categories namely Cellulose Pulp and Carbon Activated. Cellulose Pulp category of Filter Pad comes with varied specification to suite the final filtering process deployed at the plant.
 We manufacture a wide range of filter papers &amp;amp; pads on a very highly sophisticated production plant. The entire process of manufacturing is untouched by hand from the pulping stage to the finished product. This is a high precision completely automatic plant which ensures a uniformly produced filter media for excellent purity and frees from external contaminants qualities vital for sensitive industries like drugs, pharmaceuticals, foods, beverages, chemicals, cosmetics etc.</description>
     </item>
     
     <item>
       <title>Filter Pads Deep Dive</title>
-      <link>http://filtration.sribharathi.com/media/activatedcarbonpads/</link>
+      <link>/media/activatedcarbonpads/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://filtration.sribharathi.com/media/activatedcarbonpads/</guid>
+      <guid>/media/activatedcarbonpads/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Filter Pads Deep Dive</title>
-      <link>http://filtration.sribharathi.com/media/filterpadsdeepdive/</link>
+      <link>/media/filterpadsdeepdive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://filtration.sribharathi.com/media/filterpadsdeepdive/</guid>
+      <guid>/media/filterpadsdeepdive/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Filtration</title>
-      <link>http://filtration.sribharathi.com/filtration/filtercartridges/</link>
+      <link>/filtration/filtercartridges/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://filtration.sribharathi.com/filtration/filtercartridges/</guid>
+      <guid>/filtration/filtercartridges/</guid>
       <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
     </item>
     
     <item>
       <title>Healthcare</title>
-      <link>http://filtration.sribharathi.com/healthcare/</link>
+      <link>/healthcare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://filtration.sribharathi.com/healthcare/</guid>
+      <guid>/healthcare/</guid>
       <description>Write something about drugs and the smart drugs distribution system</description>
     </item>
     
     <item>
       <title>Our Strength</title>
-      <link>http://filtration.sribharathi.com/about/strength/</link>
+      <link>/about/strength/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://filtration.sribharathi.com/about/strength/</guid>
+      <guid>/about/strength/</guid>
       <description>Established by an eminent subject matter expert with more than 40 years of experience in the industry We have tie-up with technical leaders and other organizations in the Filtering Industry Manufacturing of High Quality Filter Pads, Filter Bags and other Industrial Filtering Equipment Our continuous Research &amp; Developments are tailored to the most recent technological up heaves Its activities are governed by the ethical principles and garnered to the glory for its maintaining the promises and the standards Has state of the art technology for the Filter Pads manufacturing Eminent subject matter experts in the filed of Filter Pads &amp; Filtering Technology Recognized as a reputed &amp; quality supplier by multiple leading companies in India  </description>
     </item>
     
     <item>
       <title>Sri Bharathi Group - An Overview</title>
-      <link>http://filtration.sribharathi.com/media/sribharathigroup/</link>
+      <link>/media/sribharathigroup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://filtration.sribharathi.com/media/sribharathigroup/</guid>
+      <guid>/media/sribharathigroup/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Sri Bharathi Group of Companies</title>
-      <link>http://filtration.sribharathi.com/about/company/</link>
+      <link>/about/company/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://filtration.sribharathi.com/about/company/</guid>
+      <guid>/about/company/</guid>
       <description>Sri Bharathi Group of companies is established by an eminent visionary with more than 40 years of industrial deep-rooted experience and expertise keeping the outlook on the fast-flourishing technical advance which gallops incredibly beyond leaps and bounds. In industry, the prime objective is the manufacture of products with pristine purity. The consumers of today are well acquainted with quality of consumables.
 An industry with low index of purity of it’s products cannot hood-wink the sagacious consumers for a long time.</description>
     </item>
     
     <item>
       <title>Standards &amp; Certifications</title>
-      <link>http://filtration.sribharathi.com/about/standards/</link>
+      <link>/about/standards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://filtration.sribharathi.com/about/standards/</guid>
+      <guid>/about/standards/</guid>
       <description>ISO 9001-2000 Certified manufacturing unit Dun &amp; Bradstreet Certified manufacturing unit 100% secure and protected from any external adulteration/contamination We do not use any solvent / chemical and the adhere to the strict norms of Food &amp; Pharmaceutical Industries Fully automated and lesser human intervention for the high quality and safety of pads  </description>
     </item>
     
