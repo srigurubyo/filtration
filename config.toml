@@ -1,8 +1,7 @@
-# baseurl = ""
-baseurl = "/sae"
+baseurl = "/filtration"
 title = "Sri Bharathi Group"
 
-theme = "universal"
+theme = "universal-v0.15"
 # theme = "hugo-theme-docdock"
 
 themesDir = "./themes"

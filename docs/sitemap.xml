@@ -3,178 +3,178 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/sae/media/productcatalog/</loc>
+    <loc>/filtration/media/productcatalog/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/sae/blog/2015/10/10/migrate-from-jekyll/</loc>
+    <loc>/filtration/blog/2015/10/10/migrate-from-jekyll/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/sae/blog/2015/10/02/linked-post/</loc>
+    <loc>/filtration/blog/2015/10/02/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/sae/blog/2015/09/17/go-is-for-lovers/</loc>
+    <loc>/filtration/blog/2015/09/17/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/sae/blog/2015/08/03/hugo-is-for-lovers/</loc>
+    <loc>/filtration/blog/2015/08/03/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/sae/blog/2015/06/24/creating-a-new-theme/</loc>
+    <loc>/filtration/blog/2015/06/24/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/sae/about/</loc>
+    <loc>/filtration/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/sae/blog/</loc>
+    <loc>/filtration/blog/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/sae/categories/</loc>
+    <loc>/filtration/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/sae/contact/</loc>
+    <loc>/filtration/contact/</loc>
   </url>
   
   <url>
-    <loc>/sae/about/values/</loc>
+    <loc>/filtration/about/values/</loc>
   </url>
   
   <url>
-    <loc>/sae/faq/</loc>
+    <loc>/filtration/faq/</loc>
   </url>
   
   <url>
-    <loc>/sae/filtration/filterpads/</loc>
+    <loc>/filtration/filtration/filterpads/</loc>
   </url>
   
   <url>
-    <loc>/sae/media/activatedcarbonpads/</loc>
+    <loc>/filtration/media/activatedcarbonpads/</loc>
   </url>
   
   <url>
-    <loc>/sae/media/filterpadsdeepdive/</loc>
+    <loc>/filtration/media/filterpadsdeepdive/</loc>
   </url>
   
   <url>
-    <loc>/sae/filtration/filtercartridges/</loc>
+    <loc>/filtration/filtration/filtercartridges/</loc>
   </url>
   
   <url>
-    <loc>/sae/filtration/</loc>
+    <loc>/filtration/filtration/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/sae/tags/go/</loc>
+    <loc>/filtration/tags/go/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/sae/tags/golang/</loc>
+    <loc>/filtration/tags/golang/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/sae/healthcare/</loc>
+    <loc>/filtration/healthcare/</loc>
   </url>
   
   <url>
-    <loc>/sae/tags/hugo/</loc>
+    <loc>/filtration/tags/hugo/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/sae/tags/ipsum/</loc>
+    <loc>/filtration/tags/ipsum/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/sae/categories/lorem/</loc>
+    <loc>/filtration/categories/lorem/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/sae/media/</loc>
+    <loc>/filtration/media/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/sae/about/strength/</loc>
+    <loc>/filtration/about/strength/</loc>
   </url>
   
   <url>
-    <loc>/sae/categories/programming/</loc>
+    <loc>/filtration/categories/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/sae/tags/programming/</loc>
+    <loc>/filtration/tags/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/sae/categories/pseudo/</loc>
+    <loc>/filtration/categories/pseudo/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/sae/</loc>
+    <loc>/filtration/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/sae/media/sribharathigroup/</loc>
+    <loc>/filtration/media/sribharathigroup/</loc>
   </url>
   
   <url>
-    <loc>/sae/about/company/</loc>
+    <loc>/filtration/about/company/</loc>
   </url>
   
   <url>
-    <loc>/sae/about/standards/</loc>
+    <loc>/filtration/about/standards/</loc>
   </url>
   
   <url>
-    <loc>/sae/categories/starting/</loc>
+    <loc>/filtration/categories/starting/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/sae/tags/</loc>
+    <loc>/filtration/tags/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/sae/tags/theme/</loc>
+    <loc>/filtration/tags/theme/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
