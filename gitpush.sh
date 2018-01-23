@@ -10,6 +10,9 @@ rm -rf public/*
 echo "Generating site"
 hugo
 
+echo "Copying CNAME"
+cp CNAME docs/
+
 echo "Updating master branch"
 cd docs && git add --all && git commit -m "Publishing to master/docs"
 git push -u origin master
