@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Media on Sri Bharathi Group</title>
-    <link>/filtration/media/</link>
+    <link>/media/</link>
     <description>Recent content in Media on Sri Bharathi Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Sri Bharathi Group of companies; all rights reserved.</copyright>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/filtration/media/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/media/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Shortcode Tests</title>
-      <link>/filtration/media/productcatalog/</link>
+      <link>/media/productcatalog/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/filtration/media/productcatalog/</guid>
+      <guid>/media/productcatalog/</guid>
       <description>  </description>
     </item>
     
     <item>
       <title>Filter Pads Deep Dive</title>
-      <link>/filtration/media/activatedcarbonpads/</link>
+      <link>/media/activatedcarbonpads/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/filtration/media/activatedcarbonpads/</guid>
+      <guid>/media/activatedcarbonpads/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Filter Pads Deep Dive</title>
-      <link>/filtration/media/filterpadsdeepdive/</link>
+      <link>/media/filterpadsdeepdive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/filtration/media/filterpadsdeepdive/</guid>
+      <guid>/media/filterpadsdeepdive/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Sri Bharathi Group - An Overview</title>
-      <link>/filtration/media/sribharathigroup/</link>
+      <link>/media/sribharathigroup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/filtration/media/sribharathigroup/</guid>
+      <guid>/media/sribharathigroup/</guid>
       <description> </description>
     </item>
     
