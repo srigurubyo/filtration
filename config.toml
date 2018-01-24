@@ -96,24 +96,28 @@ paginate = 10
     identifier = "sribharathigroup"	
     url  = "/media/sribharathigroup/"
     parent = "media"
+    weight = 1
 
 [[menu.main]]
     name = "Filter Pads - Deep Dive"
     identifier = "filterpadsdeepdive"	
     url  = "/media/filterpadsdeepdive/"
     parent = "media"
+    weight = 2
 
 [[menu.main]]
     name = "Activated Carbon Pads"
     identifier = "activatedcarbonpads"	
     url  = "/media/activatedcarbonpads/"
     parent = "media"
+    weight = 3
 
 [[menu.main]]
     name = "Product Catalog"
     identifier = "productcatalog"	
     url  = "/media/productcatalog/"
     parent = "media"
+    weight = 4
 
 [params]
     viewMorePostLink = "/blog/"
@@ -151,9 +155,8 @@ paginate = 10
     logo = "img/logo.png"
     address = """<p><strong>Registered Office</strong>
         <br>Satyam Shivam
-        <br>Baner
-        <br>Pune - 411008
-        <br>Maharashtra 
+        <br>Baner, Pune
+        <br>Maharashtra  - 411008 
         <br>
         <strong>India</strong>
       </p>
@@ -175,7 +178,7 @@ paginate = 10
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
-    categories = true
+    categories = false
     tags = true
     search = true
 
@@ -192,7 +195,7 @@ paginate = 10
     # For more informtion take a look at the README.
 
 [params.testimonials]
-    enable = true
+    enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
@@ -201,7 +204,7 @@ paginate = 10
 
 [params.see_more]
     enable = true
-    icon = "fa fa-file-code-o"
+    icon = "fas fa-camera-retro fa-2x"
     title = "Do you want to see more?"
     subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
     link_url = "#"
@@ -216,7 +219,7 @@ paginate = 10
     subtitle = ""
 
 [params.recent_posts]
-    enable = true
+    enable = false
     title = "From our blog"
     subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
 
